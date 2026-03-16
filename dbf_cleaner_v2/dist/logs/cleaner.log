@@ -1,0 +1,4 @@
+2026-03-16 17:15:25,651 | INFO | Analyze start | file=C:/WINPOS/PAYPOINTTXN.DBF | cutoff=2026-03-16
+2026-03-16 17:15:25,745 | INFO | Analyze done | total=2556 marked=2556 recall=8 remove=2548 remaining=8 parse_fail=0
+2026-03-16 17:15:32,580 | INFO | Analyze start | file=C:/WINPOS/PAYPOINTTXN.DBF | cutoff=2026-03-01
+2026-03-16 17:15:32,672 | INFO | Analyze done | total=2556 marked=2556 recall=231 remove=2325 remaining=231 parse_fail=0
